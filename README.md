@@ -82,11 +82,11 @@ GITHUB TEMPALTE
   </tr>
   <tr>
     <td>no special characters allowed</td>
-    <td>maxlength is not greater than or equals to 100</td> 
+        <td>password textbox contains values</td>
     <td>email textbox has values</td>
   </tr>
   <tr>
-    <td>password textbox contains values</td>
+	<td>maxlength is not greater than or equals to 100</td> 
   </tr>
 </table>
   
