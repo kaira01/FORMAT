@@ -77,7 +77,7 @@ GITHUB TEMPALTE
 <br> <em>STEP D</em>. Since the system requires conditions on both email address and password textbox, users need to consider the following:</br>
 <table style="width:100%">
   <tr>
-    <th rowspan="2"><b>Email Address specifications:</b></th>
+    <th rowspan="3"><b>Email Address specifications:</b></th>
     <td>no special characters allowed</td>
   </tr>
   <tr>
