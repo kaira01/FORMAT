@@ -81,7 +81,6 @@ GITHUB TEMPALTE
     <td>no special characters allowed</td>
   </tr>
   <tr>
-    <td>
     <td>maxlength is 100</td>
   </tr>
   <tr>
