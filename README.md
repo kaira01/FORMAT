@@ -82,7 +82,7 @@ GITHUB TEMPALTE
   </tr>
   <tr>
     <td>
-    <td>maxlength is 100 but value must not be 0</td>
+    <td>maxlength is 100</td>
   </tr>
   <tr>
     <td>email textbox has values</td>
