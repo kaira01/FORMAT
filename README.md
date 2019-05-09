@@ -74,6 +74,22 @@ GITHUB TEMPALTE
 <li>“There is an error in the email address or password”</br></li></ul>
  If the password is <i><b>correct</i></b>, successful logins are directed to the assigned page.<a href="https://gyazo.com/7a4d4a95028bae5203f349c327a0c23e"> Korean Foreign Page</a> for Korean and <a href="https://gyazo.com/6d98b58dd07d014d549f03b4223fc2d7">Thai Foreign Page </a>for Thailand. Japan users can view the page according to their membership status.
 
+<br> <em>STEP D</em>. Since the system requires conditions on both email address and password textbox, users need to consider the following:</br>
+<table style="width:100%">
+  <tr>
+    <th>Email Address Specifications</th>
+    <th>Password Specification</th> 
+  </tr>
+  <tr>
+    <td>no special characters allowed</td>
+    <td>maxlength is not greater than or equals to 100</td> 
+    <td>email textbox has values</td>
+  </tr>
+  <tr>
+    <td>password textbox contains values</td>
+  </tr>
+</table>
+  
 </span>
 </section>
 
