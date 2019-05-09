@@ -87,7 +87,7 @@ GITHUB TEMPALTE
     <td>email textbox has values</td>
   </tr>
   <tr>
-	<th><b>Password specification</b></th>
+	<th><b>Password specification:</b></th>
 	<td>password textbox has no values
 	</tr>
 </table>
