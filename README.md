@@ -75,7 +75,7 @@ GITHUB TEMPALTE
  If the password is <i><b>correct</i></b>, successful logins are directed to the assigned page.<a href="https://gyazo.com/7a4d4a95028bae5203f349c327a0c23e"> Korean Foreign Page</a> for Korean and <a href="https://gyazo.com/6d98b58dd07d014d549f03b4223fc2d7">Thai Foreign Page </a>for Thailand. Japan users can view the page according to their membership status.
 
 <br> <em>STEP D</em>. Since the system requires conditions on both email address and password textbox, users need to consider the following:</br>
-<table">
+<table>
   <tr>
     <th rowspan="3"><b>Email Address specifications:</b></th>
     <td>no special characters allowed</td>
